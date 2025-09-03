@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>Homework 1</title>
   <meta charset="utf-8">
   <meta name="Homework 1"
         content="Homework 1 from BT">
